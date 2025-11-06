@@ -1,7 +1,7 @@
 <!-- OpenGL Logo centré -->
 <p align="center">
   <a href="https://www.opengl.org/" target="_blank">
-    <img src="src/logo/opengl-svgrepo-com.svg" width="400" alt="OpenGL Logo">
+    <img src="src/logo/opengl-svgrepo-com.svg" width="300" alt="OpenGL Logo">
   </a>
 </p>
 
